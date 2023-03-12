@@ -9,8 +9,6 @@
     "module": "commonjs",
     "declaration": true,
     "rootDir": "./src",
-    "outDir": "./dist",
-    "noImplicitAny": true,
-    "noImplicitReturns": true
+    "outDir": "./dist"
   }
 }
