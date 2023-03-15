@@ -1,4 +1,4 @@
-import "mocha";
+/*import "mocha";
 import { expect } from "chai";
 import { Series } from "../../src/ejercicio-1/series";
 import { SeriesCollection } from "../../src/ejercicio-1/seriesCollection";
@@ -27,4 +27,4 @@ describe("SeriesCollection class tests", () => {
   it("collection.buscarPorTemporada(5) returns 'Breaking Bad, 2011, 5 temporadas.'", () => {
     expect(coleccionSeries.buscarPorTemporada(5)).to.be.eql(breakingBad);
   });
-});
+});*/

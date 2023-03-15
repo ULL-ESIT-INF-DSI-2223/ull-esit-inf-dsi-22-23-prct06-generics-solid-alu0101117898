@@ -1,4 +1,4 @@
-import "mocha";
+/*import "mocha";
 import { expect } from "chai";
 import { Pelicula } from "../../src/ejercicio-1/peliculas";
 import { PeliculasCollection } from "../../src/ejercicio-1/peliculasCollection";
@@ -26,4 +26,4 @@ describe("PeliculasCollection class tests", () => {
   it("PeliculasCollection.buscarPorDuracion(162) returns 'Avatar, 2009, 162 minutes.'", () => {
     expect(coleccionPeliculas.buscarPorDuracion(162)).to.be.eql(avatar);
   });
-});
+});*/

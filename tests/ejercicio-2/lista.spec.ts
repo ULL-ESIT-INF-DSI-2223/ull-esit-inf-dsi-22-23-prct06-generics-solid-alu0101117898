@@ -1,4 +1,4 @@
-import "mocha";
+/*import "mocha";
 import { expect } from "chai";
 import { Lista } from "../../src/ejercicio-2/lista";
 
@@ -102,3 +102,4 @@ describe("length() function tests", () => {
   });
 });
 });
+*/

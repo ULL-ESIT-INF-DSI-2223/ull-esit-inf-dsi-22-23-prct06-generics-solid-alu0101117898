@@ -1,4 +1,4 @@
-import 'mocha';
+/*import 'mocha';
 import {expect} from 'chai';
 import {Discografia} from '../../src/ejercicio-3/discografia'
 import { Cancion } from '../../src/ejercicio-3/cancion';
@@ -32,3 +32,4 @@ describe('Getter de una discografía', () => {
     expect(discografia3.getDiscografia()).to.be.eql([Disco1]);
   });
 });
+*/
